@@ -1,11 +1,11 @@
 import React from 'react';
 
 import './App.css';
-import WheaterLocation from './components/WeatherLocation';
+import WheaterLocation from './components/WheatherLocation';
 function App() {
   return (
     <div className="App">
-    hola mundo
+   
     <WheaterLocation></WheaterLocation>
     </div>
   );
